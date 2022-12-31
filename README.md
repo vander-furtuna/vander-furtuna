@@ -4,7 +4,6 @@ I'm a young man who dreams big and believes that technology, especially programm
 
 </div>
 
-
 <div align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,4 +30,4 @@ I'm a young man who dreams big and believes that technology, especially programm
   <br/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=vander115&color=yellow" alt="Profile views" /> </p>
 
-<!-- ![Snake animation](https://github.com/willianspraciano/willianspraciano/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/vander115/vander115/blob/output/github-contribution-grid-snake.svg)
