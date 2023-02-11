@@ -1,7 +1,6 @@
 <div align="center"> 
-<h1>Vanderlei Furtuna</h1>
+<h1>Hi 👋🏽 little owl, I'm Vanderlei Furtuna</h1>
 I'm a young man who dreams big and believes that technology, especially programming, can change the world. 💻⚡
-
 </div>
 
 <div align="center"> 
