@@ -43,7 +43,7 @@
 </div>
   
   <br><br>
-## ✉️ &nbsp;Contate-me
+## ✉️ &nbsp;Contact Me
   <div align="center">
   <a href="https://www.linkedin.com/in/vanderlei-furtuna-12bb39235/" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219233890-5c54c2ab-9492-4683-a9fd-3fdf41841902.svg" target="_blank"></a>
   <a href="mailto:furtunavanderlei@gmail.com" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219234198-9db4f3f8-63a7-4ab0-9a5b-152004a06773.svg" target="_blank"></a>
