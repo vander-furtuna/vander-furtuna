@@ -1,7 +1,29 @@
-<div align="center"> 
-<h1>Hi 👋🏽 little owl, I'm Vanderlei Furtuna</h1>
-I'm a young man who dreams big and believes that technology, especially programming, can change the world. 💻⚡
+<img align="right" height="390em" src="https://user-images.githubusercontent.com/101757815/219227740-53a0c0c7-6a6f-45ef-ba55-68557887f3f7.png" />
+<h1 align="left">Hi <img height="40px" autoplay src="https://user-images.githubusercontent.com/101757815/219237570-bf14328c-843d-40ed-b7e5-8b7f58bc9032.gif" /> little owl, I'm Vanderlei Furtuna</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vander115&color=yellow" alt="Profile views" /> </p>
+<p align="left">I'm a young man who dreams big and believes that technology, especially programming, can change the world. 💻⚡</p>
+
+- **Computer Technician** from EEEP Francisca Neilyta
+- Front-end Developer with advanced knowledge in HTML, CSS/Sass, JS/TS, PHP and MySQL.
+- Learning React, React Native, Next, Angular and Node.js
+- Getting to know more and more the universe of Design, along with UX and UI
+
+<br><br>
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/vander115">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vander115&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Felipe Muniz stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vander115&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
 </div>
+
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
 <div align="center"> 
   <div style="display: inline_block"><br>
    <img align="center" alt="HTML icon" title="HTML" height="56" width="56" src="https://user-images.githubusercontent.com/101757815/218614325-fee39677-95be-4831-a722-046d610be095.svg">
@@ -17,12 +39,19 @@ I'm a young man who dreams big and believes that technology, especially programm
   <img align="center" alt="PHP icon" height="56" title="PHP" width="56" src="https://user-images.githubusercontent.com/101757815/218617431-e3f00a0b-1da6-4816-90c8-aeafb4705bb2.svg">
    <img align="center" alt="MySql icon" title="MySQL" height="56" width="56" src="https://user-images.githubusercontent.com/101757815/218617316-f023e002-6cea-487f-99fa-d75bb1ca307f.svg">
      <img align="center" alt="Git icon" title="Git" height="56" width="56" src="https://user-images.githubusercontent.com/101757815/218617770-b496c0d5-1284-4766-9890-72d9da8f9cde.svg">
+    </div>
 </div>
-  <br>
-  <a href="https://www.instagram.com/vander_suncat/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanderlei-furtuna-12bb39235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:furtunavanderlei@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  
+  <br><br>
+## ✉️ &nbsp;Contate-me
+  <div align="center">
+  <a href="https://www.linkedin.com/in/vanderlei-furtuna-12bb39235/" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219233890-5c54c2ab-9492-4683-a9fd-3fdf41841902.svg" target="_blank"></a>
+  <a href="mailto:furtunavanderlei@gmail.com" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219234198-9db4f3f8-63a7-4ab0-9a5b-152004a06773.svg" target="_blank"></a>
+  <a href="https://www.instagram.com/vander_suncat/" target="_blank"><img height="48px" src="https://user-images.githubusercontent.com/101757815/219234426-bc9e3560-bfd5-4246-9ce4-cd28dc8ae167.svg" target="_blank"></a> 
+    </div>
   <br/>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=vander115&color=yellow" alt="Profile views" /> </p>
-
+  <div align="center">
+    
 ![Snake animation](https://github.com/vander115/vander115/blob/output/github-contribution-grid-snake.svg)
+    
+  </div>
