@@ -4,7 +4,8 @@
 <p align="left">I'm a young man who dreams big and believes that technology, especially programming, can change the world. 💻⚡</p>
 
 - **Computer Technician** from EEEP Francisca Neilyta
-- Front-end Developer with advanced knowledge in HTML, CSS/Sass, JS/TS, PHP and MySQL.
+  **Computer Engineering** student at the **Federal University of Ceará (UFC)**
+- Front-end Developer with advanced knowledge in HTML, CSS/Sass, JS/TS, React/ReactNative, PHP and MySQL.
 - Learning React, React Native, Next, Angular and Node.js
 - Getting to know more and more the universe of Design, along with UX and UI
 
