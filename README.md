@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi <img height="35px" autoplay src="https://user-images.githubusercontent.com/101757815/219237570-bf14328c-843d-40ed-b7e5-8b7f58bc9032.gif" /> little suncat, I'm Vanderlei Furtuna</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vander115&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vander115&color=f27c05" alt="Profile views" /> </p>
 <p align="left">I'm a young man who dreams big and believes that technology, especially programming, can change the world. 💻⚡</p>
 
 - **Computer Technician** from EEEP Francisca Neilyta
