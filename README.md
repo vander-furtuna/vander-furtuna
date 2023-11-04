@@ -1,7 +1,7 @@
 <img align="right" height="390em" src="https://github.com/vander115/vander115/assets/101757815/0ad9d858-f9f2-43c3-a65d-2a6ba7b254a2" />
 
 
-<h1 align="left">Hi <img height="35px" autoplay src="https://user-images.githubusercontent.com/101757815/219237570-bf14328c-843d-40ed-b7e5-8b7f58bc9032.gif" /> little owl, I'm Vanderlei Furtuna</h1>
+<h1 align="left">Hi <img height="35px" autoplay src="https://user-images.githubusercontent.com/101757815/219237570-bf14328c-843d-40ed-b7e5-8b7f58bc9032.gif" /> little suncat, I'm Vanderlei Furtuna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vander115&color=yellow" alt="Profile views" /> </p>
 <p align="left">I'm a young man who dreams big and believes that technology, especially programming, can change the world. 💻⚡</p>
 
