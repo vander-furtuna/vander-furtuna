@@ -1,4 +1,4 @@
-<img align="right" height="390em" src="https://github.com/vander115/vander115/assets/101757815/0ad9d858-f9f2-43c3-a65d-2a6ba7b254a2" />
+<img align="right" height="390em" src="https://github.com/vander115/vander115/assets/101757815/f38cb74b-daa3-44db-bf8e-301224d9d36b" />
 
 
 <h1 align="left">Hi <img height="35px" autoplay src="https://user-images.githubusercontent.com/101757815/219237570-bf14328c-843d-40ed-b7e5-8b7f58bc9032.gif" /> little suncat, I'm Vanderlei Furtuna</h1>
