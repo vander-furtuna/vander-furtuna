@@ -13,6 +13,7 @@
 <br><br>
 
 
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
@@ -21,7 +22,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vander-furtuna&layout=compact&langs_count=6&theme=dark" alt="Felipe Muniz most languages"/>
 </div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vander-furtuna/vander-furtuna/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vander-furtuna/vander-furtuna/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vander-furtuna/vander-furtuna/output/github-contribution-grid-snake.svg">
+</picture>
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -54,11 +59,5 @@
     </div>
   <br/>
   <div align="center">
-    
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
     
   </div>
