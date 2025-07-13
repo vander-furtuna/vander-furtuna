@@ -1,12 +1,11 @@
-<img align="right" height="390em" src="https://github.com/vander-furtuna/vander-furtuna/assets/101757815/9ce369b9-13d8-4894-a751-a1820dc0332c" />
 <h1 align="left">Hi <img height="35px" autoplay src="https://user-images.githubusercontent.com/101757815/219237570-bf14328c-843d-40ed-b7e5-8b7f58bc9032.gif" /> little suncat, I'm Vanderlei Furtuna</h1>
-
+<img align="right" height="360em" src="https://github.com/user-attachments/assets/46e70cdc-4fc7-490c-b8b3-32e987f2bb63" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vander-furtuna&color=f27c05" alt="Profile views" /> </p>
 <p align="left">I'm a young man who dreams big and believes that technology, especially programming, can change the world. 💻⚡</p>
 
 - **Computer Technician** from EEEP Francisca Neilyta
 - **Computer Engineering** student at the **Federal University of Ceará (UFC)**
-- Front-end Developer with advanced knowledge in HTML, CSS/Sass, JS/TS, React/ReactNative, PHP and MySQL.
+- Front-end Developer with advanced knowledge in HTML, CSS, TailwindCSS, JS/TS, React, ReactNative and NextJS.
 - Learning React, React Native, Next, Python and Node.js
 - Getting to know more and more the universe of Design, along with UX and UI
 
